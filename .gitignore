@@ -1,0 +1,14 @@
+# File di sistema macOS
+.DS_Store
+._*
+
+# File temporanei MATLAB / Simulink
+*.asv
+*.slxc
+*.mex*
+slprj/
+
+# Materiale del corso e traccia da non caricare
+Optimization/
+Simulation/
+**/Final_project_*.pdf
